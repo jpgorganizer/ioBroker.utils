@@ -1,0 +1,33 @@
+{
+  "name": "@jpgorganizer/utils",
+  "author": "jpgorganizer",
+  "version": "1.0.0",
+  "license": "CC BY-NC-SA4.0",
+  "homepage": "https://github.com/jpgorganizer/ioBroker.utils",
+  "keywords": [
+    "iobroker",
+    "utils",
+    "adapter"
+  ],
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bugs": {
+    "url": "https://github.com/jpgorganizer/ioBroker.utils/issues"
+  },
+  "dependencies": {
+  },
+  "deprecated": false,
+  "description": "util functions for ioBroker",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpgorganizer/ioBroker.utils.git"
+  },
+  "scripts": {
+  }
+}
