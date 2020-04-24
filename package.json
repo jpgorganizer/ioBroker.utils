@@ -1,8 +1,8 @@
 {
   "name": "@jpgorganizer/utils",
   "author": "jpgorganizer",
-  "version": "1.0.0",
-  "license": "CC BY-NC-SA4.0",
+  "version": "1.1.0",
+  "license": "CC-BY-NC-SA4.0",
   "homepage": "https://github.com/jpgorganizer/ioBroker.utils",
   "keywords": [
     "iobroker",
